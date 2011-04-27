@@ -1,0 +1,2 @@
+初めてのChrome Extension。
+ボタンをクリックするとHelloChromeExtensionWorldと表示される。
